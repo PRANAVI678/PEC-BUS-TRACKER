@@ -20,26 +20,13 @@
         android:textSize="16sp"
         android:textStyle="bold" />
 
-    <Button
-        android:id="@+id/btnChatBox"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_below="@+id/btnSchedule"
-        android:layout_marginLeft="40dp"
-        android:layout_marginTop="15dp"
-        android:layout_marginRight="40dp"
-        android:background="@drawable/home_screen_button"
-        android:text="@string/chat_box"
-        android:textAllCaps="false"
-        android:textColor="@color/white"
-        android:textSize="16sp"
-        android:textStyle="bold" />
+
 
     <Button
         android:id="@+id/btnComplainBox"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_below="@+id/btnChatBox"
+        android:layout_below="@+id/btnSchedule"
         android:layout_marginLeft="40dp"
         android:layout_marginTop="15dp"
         android:layout_marginRight="40dp"

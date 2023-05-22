@@ -49,10 +49,6 @@ class StudentHome : AppCompatActivity(), RecyclerAdapter.RecyclerAdapterInterfac
             startActivity(Intent(this, RouteSchedule::class.java))
         }
 
-        //! ChatBox Button
-        binding.btnChatBox.setOnClickListener {
-            startActivity(Intent(this, ChatBox::class.java))
-        }
 
         //! Complain Button
         binding.btnComplainBox.setOnClickListener {

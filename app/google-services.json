@@ -1,34 +1,62 @@
 {
   "project_info": {
-    "project_number": "1068129074651",
-    "firebase_url": "https://bus-tracking-86063-default-rtdb.firebaseio.com",
-    "project_id": "bus-tracking-86063",
-    "storage_bucket": "bus-tracking-86063.appspot.com"
+    "project_number": "336906287178",
+    "project_id": "snappy-benefit-381811",
+    "storage_bucket": "snappy-benefit-381811.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1068129074651:android:d43490170fd364f9f3bbfe",
+        "mobilesdk_app_id": "1:336906287178:android:f528f2c36a35371d0cceb3",
         "android_client_info": {
-          "package_name": "com.example.bustracking"
+          "package_name": "com.android.bustracking"
         }
       },
       "oauth_client": [
         {
-          "client_id": "1068129074651-7u1rqc0sb3hacmi6doj9tbdfjm4otiah.apps.googleusercontent.com",
+          "client_id": "336906287178-mops53f63btsh758t6m2t29bqb0dkmeh.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyC8lPrYGjcVOcgbQgP0e_9XZqiti_8NaAE"
+          "current_key": "AIzaSyBhUehfVHtsQKuVkpKG5Rm98vTD-9VbvjQ"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "1068129074651-7u1rqc0sb3hacmi6doj9tbdfjm4otiah.apps.googleusercontent.com",
+              "client_id": "336906287178-mops53f63btsh758t6m2t29bqb0dkmeh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:336906287178:android:b2399607bac4ba1b0cceb3",
+        "android_client_info": {
+          "package_name": "com.example.bustracking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "336906287178-mops53f63btsh758t6m2t29bqb0dkmeh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhUehfVHtsQKuVkpKG5Rm98vTD-9VbvjQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "336906287178-mops53f63btsh758t6m2t29bqb0dkmeh.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

@@ -51,6 +51,8 @@ class MapsActivity : AppCompatActivity(), OnMapReadyCallback {
                 mLongitude = snapshot.child(busName).child("longitude").value as Double
 
                 val latLng = LatLng(mLatitude, mLongitude)
+                println("Hello ")
+                println(latLng)
                 mMap.addMarker(MarkerOptions().position(latLng).title(""))
                 mMap.animateCamera(
                     CameraUpdateFactory.newLatLngZoom(

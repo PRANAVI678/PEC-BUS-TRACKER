@@ -41,7 +41,7 @@
         -->
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="YOUR_API_KEY" />
+            android:value="AIzaSyCRyPx-hlIlbsZw5P2Vag_cw8zIfk0r_Fc" />
 
         <activity
             android:name=".WriteComplain"
@@ -56,9 +56,6 @@
             android:theme="@style/Theme.BusTracking2" />
         <activity
             android:name=".ComplaintBox"
-            android:exported="false" />
-        <activity
-            android:name=".ChatBox"
             android:exported="false" />
         <activity
             android:name=".RouteSchedule"
